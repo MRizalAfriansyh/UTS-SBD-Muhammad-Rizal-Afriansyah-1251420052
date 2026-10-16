@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="UTS SBD" id="B0C53F9C-A59D-1756-A793-90FE208B0E76" version="3.5">
+<createdBy>lenovo</createdBy>
+<createdTime>2026-10-15 23:59:34 UTC</createdTime>
+<ownerDesignName>UTS SBD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B0C53F9C-A59D-1756-A793-90FE208B0E76</designId>
+</OSDM_Design>

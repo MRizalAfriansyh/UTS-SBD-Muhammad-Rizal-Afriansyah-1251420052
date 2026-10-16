@@ -1,0 +1,11 @@
+INSERT INTO Room VALUES (20, 'H101', 'Executive', 50.00);
+
+INSERT INTO Room VALUES (21, 'H101', 'Single', 150.00);
+
+
+INSERT INTO Room VALUES (105, 'H101', 'Family', 90.00);
+
+INSERT INTO Booking VALUES ('H101', 'G001', '2020-01-01', '2020-01-05', 15);
+
+
+INSERT INTO Booking VALUES ('H101', 'G002', '2026-11-03', '2026-11-07', 15);
